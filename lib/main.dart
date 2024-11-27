@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// emphemeral state management
 void main() {
   runApp(MyEphemeralApp());
 }
